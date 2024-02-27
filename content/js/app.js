@@ -12,6 +12,7 @@
             .then(data => {
             
                 showData(data)
+                inputElem.value=""
             })
 
 
